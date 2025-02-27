@@ -1,0 +1,501 @@
+User_ID,Current_Skills,Experience_Level,Preferred_Tech_Role,Industry_Trend_Score,Recommended_Skills,Job_Opportunities
+U001,"Python, Java",Senior,Frontend Developer,55.99,"SQL, C++, AWS, JavaScript, Machine Learning",10
+U002,"Node.js, Python, AWS, SQL, React",Entry,AI Engineer,57.1,"SQL, Node.js, AWS, Machine Learning, Python",92
+U003,"React, Node.js, Data Science, Java, SQL",Entry,Cloud Engineer,71.12,"C++, Java, SQL, AWS, JavaScript",77
+U004,"Java, Node.js",Entry,Cloud Engineer,88.03,"Machine Learning, Python",35
+U005,"AWS, Node.js, Machine Learning, JavaScript",Senior,Data Scientist,57.17,"Data Science, AWS, C++, Python, Node.js",29
+U006,"Machine Learning, Node.js, Java, Data Science",Senior,Frontend Developer,82.02,"React, Node.js",87
+U007,"Machine Learning, AWS, Python, Node.js",Entry,Frontend Developer,53.66,"AWS, React",90
+U008,"Node.js, JavaScript, C++, React, Data Science",Mid,Frontend Developer,74.62,"JavaScript, Data Science, Machine Learning, Java, Python",15
+U009,"Java, AWS",Entry,Backend Developer,67.55,"AWS, Node.js, JavaScript, Java, Data Science",18
+U010,"Machine Learning, SQL, Java, React",Mid,Data Scientist,93.17,"Node.js, Python, Machine Learning, React",84
+U011,"Data Science, Python",Senior,Data Scientist,70.07,"Java, Machine Learning, Node.js, React, Data Science",79
+U012,"Data Science, Python, C++",Senior,Backend Developer,80.61,"C++, Python",23
+U013,"JavaScript, C++, Node.js, SQL",Entry,AI Engineer,60.58,"React, C++, Java, AWS",15
+U014,"Data Science, Machine Learning, AWS",Entry,AI Engineer,51.3,"JavaScript, Machine Learning",93
+U015,"Java, Node.js, Machine Learning, Python, C++",Mid,AI Engineer,95.93,"Machine Learning, Java",28
+U016,"SQL, React, Java, C++, AWS",Senior,Backend Developer,62.1,"AWS, SQL",69
+U017,"C++, JavaScript, Java",Senior,Cloud Engineer,57.6,"Machine Learning, Java, SQL",21
+U018,"AWS, JavaScript, React",Mid,Software Engineer,93.99,"JavaScript, Java",18
+U019,"C++, SQL, JavaScript, Java, Node.js",Entry,Data Scientist,58.87,"Python, C++, JavaScript",58
+U020,"Node.js, React, AWS, C++",Mid,Frontend Developer,84.49,"JavaScript, Machine Learning, C++, Node.js",40
+U021,"Node.js, Java, Data Science, AWS",Senior,Backend Developer,78.83,"Python, SQL, Node.js, Data Science",99
+U022,"SQL, AWS",Senior,Frontend Developer,58.6,"Node.js, SQL, Java, JavaScript, React",36
+U023,"AWS, JavaScript",Entry,Data Scientist,78.2,"Node.js, Data Science",77
+U024,"Data Science, Machine Learning, C++",Mid,Data Scientist,90.44,"JavaScript, Data Science, SQL",94
+U025,"C++, Data Science",Entry,Software Engineer,84.6,"C++, AWS, Java",18
+U026,"SQL, Data Science, Node.js, AWS",Entry,Data Scientist,80.83,"Machine Learning, AWS",29
+U027,"Data Science, Node.js",Senior,Software Engineer,78.14,"Python, Java, AWS, Node.js, Machine Learning",54
+U028,"Node.js, AWS",Senior,Backend Developer,60.01,"Python, React, C++, SQL, Node.js",60
+U029,"Node.js, Machine Learning, JavaScript, C++",Mid,Backend Developer,92.96,"SQL, Data Science, Node.js, Java",77
+U030,"JavaScript, SQL, Python, AWS, C++",Entry,Cloud Engineer,99.24,"Machine Learning, SQL, Node.js",44
+U031,"Machine Learning, Python, C++, React, AWS",Senior,Software Engineer,81.16,"C++, Data Science, SQL",96
+U032,"JavaScript, React, Data Science, Python, SQL",Senior,Software Engineer,79.58,"Java, Machine Learning",6
+U033,"Python, AWS, Java, JavaScript",Entry,Cloud Engineer,56.25,"Node.js, JavaScript, SQL, C++, React",52
+U034,"Java, Node.js, AWS",Senior,Frontend Developer,90.21,"Data Science, AWS, Node.js",39
+U035,"Node.js, JavaScript",Mid,Backend Developer,56.22,"SQL, Machine Learning, C++",56
+U036,"Node.js, React",Entry,Frontend Developer,62.37,"Python, JavaScript, AWS, Machine Learning, SQL",13
+U037,"React, JavaScript",Senior,Cloud Engineer,67.86,"Data Science, Java, C++, AWS",14
+U038,"Python, React, Java, C++, Machine Learning",Entry,Software Engineer,62.48,"C++, JavaScript, Data Science, React",40
+U039,"C++, AWS, JavaScript, Java",Entry,AI Engineer,92.98,"JavaScript, AWS",9
+U040,"Java, AWS, Machine Learning, C++, JavaScript",Senior,Cloud Engineer,86.17,"Node.js, Machine Learning, Python",39
+U041,"Data Science, C++, JavaScript, React, Java",Senior,Backend Developer,52.38,"Java, Python, JavaScript, Machine Learning",8
+U042,"JavaScript, React",Senior,Backend Developer,77.28,"Node.js, React, Java, Data Science, JavaScript",19
+U043,"Machine Learning, Java, Data Science",Senior,Data Scientist,60.98,"C++, SQL",64
+U044,"Python, React, Data Science, Java",Senior,Software Engineer,50.44,"Python, Data Science, React",13
+U045,"Python, SQL",Mid,Cloud Engineer,86.65,"C++, Machine Learning",62
+U046,"AWS, Node.js, C++, SQL, Python",Mid,AI Engineer,61.42,"Node.js, SQL, Python",8
+U047,"Python, Machine Learning, JavaScript",Senior,Data Scientist,76.82,"React, JavaScript",23
+U048,"AWS, JavaScript, React, SQL",Senior,Software Engineer,62.8,"SQL, AWS, React, C++",56
+U049,"Machine Learning, C++",Mid,Software Engineer,85.53,"SQL, JavaScript, Node.js, C++",29
+U050,"Data Science, Java, React",Mid,Backend Developer,69.34,"JavaScript, SQL",32
+U051,"C++, Machine Learning, JavaScript, SQL, Data Science",Mid,Data Scientist,83.28,"Java, Node.js, Python, Machine Learning, Data Science",61
+U052,"Node.js, Java, AWS",Senior,Software Engineer,86.11,"Python, JavaScript, Machine Learning, Data Science, C++",97
+U053,"Data Science, Node.js",Mid,Frontend Developer,52.02,"Data Science, Java",94
+U054,"Machine Learning, Data Science, Python",Senior,AI Engineer,99.64,"SQL, Java, React",25
+U055,"AWS, Java, Python, Machine Learning, SQL",Senior,Backend Developer,65.34,"JavaScript, React, SQL",88
+U056,"Java, React, AWS",Senior,Software Engineer,83.42,"JavaScript, Python, Node.js",76
+U057,"AWS, Java, SQL, JavaScript, Node.js",Entry,Frontend Developer,72.73,"SQL, Machine Learning, C++, JavaScript",50
+U058,"AWS, SQL, Machine Learning",Mid,AI Engineer,65.88,"AWS, JavaScript",59
+U059,"Data Science, Python, SQL",Entry,Frontend Developer,60.62,"SQL, Python, Data Science",28
+U060,"Java, Node.js, JavaScript, C++",Senior,Software Engineer,74.3,"React, AWS",37
+U061,"Machine Learning, React, Node.js, AWS, Python",Senior,Cloud Engineer,73.01,"JavaScript, Data Science, Java",78
+U062,"AWS, C++",Entry,Frontend Developer,99.04,"React, AWS, SQL, Python, Machine Learning",46
+U063,"Java, Python, Machine Learning, JavaScript",Senior,AI Engineer,64.52,"JavaScript, Machine Learning, Data Science, Python, SQL",52
+U064,"Machine Learning, React, C++",Mid,Backend Developer,84.98,"Java, C++, SQL, JavaScript",43
+U065,"JavaScript, AWS, SQL, Java",Mid,Data Scientist,91.22,"Java, Data Science, Python, Machine Learning",43
+U066,"SQL, JavaScript, Node.js",Mid,Frontend Developer,59.66,"React, AWS, Data Science, Python, Java",91
+U067,"JavaScript, Python",Senior,Software Engineer,96.43,"Node.js, SQL, Data Science",81
+U068,"SQL, React, Java",Mid,Software Engineer,62.24,"SQL, JavaScript, Node.js, Java",27
+U069,"Python, Java, SQL, Machine Learning",Mid,Backend Developer,79.54,"Machine Learning, Data Science, JavaScript, Node.js",49
+U070,"SQL, C++",Entry,Software Engineer,69.01,"JavaScript, Node.js, C++",69
+U071,"React, Data Science",Entry,Backend Developer,69.96,"Machine Learning, Node.js, Java, Data Science, C++",35
+U072,"C++, Data Science",Senior,Data Scientist,93.11,"Java, React, C++, Machine Learning",33
+U073,"Node.js, Machine Learning, Data Science, JavaScript",Mid,AI Engineer,58.07,"Python, Node.js, C++, Machine Learning, AWS",27
+U074,"SQL, Python, C++, Machine Learning",Entry,Data Scientist,53.55,"C++, Machine Learning",60
+U075,"Python, Java",Mid,Frontend Developer,79.21,"Node.js, Java",45
+U076,"Data Science, React, AWS, Node.js",Entry,Cloud Engineer,82.46,"Python, SQL",12
+U077,"AWS, Data Science, C++, React",Entry,Cloud Engineer,62.36,"AWS, Java, C++, Data Science, React",44
+U078,"Node.js, JavaScript",Entry,Cloud Engineer,89.19,"Data Science, Python, Node.js",84
+U079,"Data Science, Machine Learning, Java",Entry,Data Scientist,98.25,"Machine Learning, JavaScript, Java",7
+U080,"Node.js, Python, Java, Machine Learning, JavaScript",Entry,Data Scientist,55.76,"React, Python, JavaScript, SQL, Data Science",20
+U081,"JavaScript, C++, Python, Java, Node.js",Senior,Software Engineer,69.2,"Node.js, SQL, Java, Machine Learning",40
+U082,"SQL, C++, React, Java, Data Science",Entry,Cloud Engineer,92.2,"C++, React, AWS, JavaScript, SQL",47
+U083,"Java, Machine Learning, C++, Data Science, AWS",Entry,Cloud Engineer,80.76,"Python, C++, Java, Data Science, React",33
+U084,"Java, React, Python, SQL, Node.js",Mid,Frontend Developer,91.38,"Python, Data Science, React, SQL",27
+U085,"Java, JavaScript",Mid,Frontend Developer,50.37,"C++, AWS",45
+U086,"Python, Java, Data Science, C++",Mid,AI Engineer,85.2,"AWS, JavaScript",90
+U087,"Node.js, SQL, Data Science, C++, JavaScript",Mid,Backend Developer,89.44,"React, JavaScript, SQL, AWS",100
+U088,"Python, AWS, Machine Learning",Mid,Frontend Developer,91.07,"AWS, Data Science, SQL, Node.js",29
+U089,"Java, Python, JavaScript, React, AWS",Senior,AI Engineer,98.04,"React, Data Science",90
+U090,"Machine Learning, C++, Java",Mid,Software Engineer,92.73,"Machine Learning, SQL",42
+U091,"Data Science, C++, Python, Java",Entry,AI Engineer,85.82,"C++, React, Java, Machine Learning, Node.js",67
+U092,"Node.js, Data Science, Machine Learning, Java",Mid,Cloud Engineer,73.01,"AWS, C++",87
+U093,"React, Java, AWS, C++",Entry,Cloud Engineer,94.6,"React, SQL, JavaScript",71
+U094,"Machine Learning, Java",Entry,Frontend Developer,79.71,"Data Science, AWS, Node.js",24
+U095,"Data Science, JavaScript, Java, Node.js, Python",Mid,Frontend Developer,95.37,"Node.js, Java, C++, Machine Learning",51
+U096,"AWS, Python, Node.js",Entry,Frontend Developer,73.09,"Java, SQL, AWS, C++",64
+U097,"Machine Learning, AWS, Java",Mid,Data Scientist,83.33,"JavaScript, C++, React, AWS, Machine Learning",57
+U098,"Data Science, Machine Learning, JavaScript, AWS",Entry,Software Engineer,61.45,"Data Science, Machine Learning, Python, React",61
+U099,"Machine Learning, Java, C++",Entry,Backend Developer,92.29,"C++, Python, Data Science, Machine Learning",41
+U100,"JavaScript, Java, SQL",Entry,Cloud Engineer,80.73,"React, AWS, Machine Learning, C++, JavaScript",30
+U101,"AWS, C++, Machine Learning, Data Science",Entry,Data Scientist,92.91,"C++, Python, JavaScript, AWS, Data Science",29
+U102,"Data Science, Machine Learning, Python",Mid,Backend Developer,51.93,"JavaScript, React, C++",63
+U103,"Data Science, React, Machine Learning, JavaScript",Mid,Backend Developer,95.38,"JavaScript, AWS, C++, Machine Learning",72
+U104,"SQL, C++, Machine Learning, React, AWS",Mid,AI Engineer,69.7,"C++, Machine Learning, Data Science, React",15
+U105,"SQL, Data Science",Mid,Backend Developer,61.28,"Data Science, SQL",42
+U106,"Node.js, C++",Senior,Backend Developer,85.26,"Machine Learning, Python",16
+U107,"React, SQL, Machine Learning, Java",Senior,Software Engineer,57.55,"Python, AWS, Data Science, C++",16
+U108,"Java, C++",Entry,Data Scientist,52.89,"C++, Java, AWS",7
+U109,"AWS, React, JavaScript",Entry,Backend Developer,65.7,"Data Science, Machine Learning, SQL",42
+U110,"Machine Learning, Data Science, AWS, C++",Senior,Backend Developer,57.79,"Node.js, Python, AWS, SQL",77
+U111,"Python, React",Entry,Backend Developer,53.33,"Java, C++, React",35
+U112,"SQL, JavaScript, C++, Data Science, Machine Learning",Mid,Software Engineer,64.93,"Machine Learning, Java, JavaScript",67
+U113,"JavaScript, Data Science",Entry,Cloud Engineer,71.74,"SQL, Data Science, JavaScript, Java, Machine Learning",42
+U114,"C++, Data Science, Machine Learning, Python",Mid,AI Engineer,65.29,"C++, SQL",64
+U115,"C++, JavaScript",Mid,AI Engineer,50.04,"Machine Learning, Python",94
+U116,"AWS, SQL, Node.js, Python, C++",Senior,Software Engineer,84.05,"C++, Java, Node.js",96
+U117,"SQL, AWS, Java, C++",Senior,Backend Developer,96.03,"AWS, Python, Java, JavaScript, Node.js",38
+U118,"AWS, JavaScript",Mid,Software Engineer,60.82,"SQL, Python, AWS, React",79
+U119,"React, C++, Machine Learning",Mid,Backend Developer,60.66,"SQL, Machine Learning",62
+U120,"React, SQL, Machine Learning",Entry,AI Engineer,79.0,"Java, Node.js, AWS, Python, JavaScript",64
+U121,"Data Science, React, AWS, SQL, C++",Senior,Data Scientist,82.17,"JavaScript, C++, Node.js, SQL, Data Science",95
+U122,"Data Science, SQL, React, JavaScript, Machine Learning",Entry,Data Scientist,89.14,"SQL, JavaScript, Python",76
+U123,"AWS, Node.js, SQL, C++",Entry,AI Engineer,63.2,"Python, AWS",31
+U124,"Data Science, JavaScript, Machine Learning, SQL",Entry,Backend Developer,52.89,"AWS, React, C++, JavaScript",64
+U125,"React, AWS, Machine Learning, Data Science",Mid,Cloud Engineer,81.5,"SQL, Java, JavaScript, Node.js",52
+U126,"AWS, React, JavaScript, Node.js, Machine Learning",Mid,Cloud Engineer,95.22,"SQL, AWS, C++, Python",12
+U127,"Java, SQL",Senior,Backend Developer,93.4,"Data Science, AWS",89
+U128,"Java, SQL",Entry,Software Engineer,64.35,"JavaScript, Node.js",53
+U129,"Machine Learning, SQL, AWS, Node.js, React",Mid,Cloud Engineer,62.63,"Data Science, Python",43
+U130,"Java, React",Senior,Cloud Engineer,82.04,"Java, Python, Machine Learning",28
+U131,"Data Science, Node.js, Python",Mid,Frontend Developer,88.38,"SQL, Node.js, Python",16
+U132,"Node.js, AWS, SQL, Machine Learning, JavaScript",Entry,Software Engineer,93.66,"Data Science, JavaScript",42
+U133,"Node.js, C++, Data Science, React",Mid,Backend Developer,97.44,"Machine Learning, C++, JavaScript",55
+U134,"Python, Machine Learning, Data Science, JavaScript",Senior,Frontend Developer,83.12,"Data Science, Machine Learning, React",83
+U135,"JavaScript, Data Science, Python",Entry,Software Engineer,74.09,"AWS, JavaScript, Node.js, React",5
+U136,"React, AWS, JavaScript, C++",Mid,Data Scientist,60.62,"JavaScript, Node.js, C++, Python",43
+U137,"React, C++, Machine Learning, Data Science, Java",Mid,Data Scientist,78.07,"Node.js, SQL, Java",74
+U138,"React, Java, C++, Data Science, Python",Entry,Backend Developer,83.54,"Data Science, Node.js, SQL",77
+U139,"Machine Learning, C++, JavaScript, SQL, Data Science",Senior,Software Engineer,61.17,"Java, React",52
+U140,"Data Science, React, Python, Node.js, C++",Mid,Backend Developer,56.15,"Python, Machine Learning",91
+U141,"Machine Learning, C++, SQL, AWS",Senior,Frontend Developer,74.98,"Data Science, JavaScript, Machine Learning, C++",92
+U142,"Node.js, React, SQL, Data Science",Mid,Software Engineer,88.64,"Data Science, C++",33
+U143,"Data Science, Java, JavaScript, Python",Mid,Cloud Engineer,82.11,"Python, SQL, C++, AWS, React",84
+U144,"React, Machine Learning, SQL, Node.js",Senior,Frontend Developer,70.51,"JavaScript, C++, SQL, Java",14
+U145,"Java, Python, C++, React, Machine Learning",Entry,AI Engineer,69.55,"JavaScript, Java, Machine Learning, Node.js, AWS",41
+U146,"JavaScript, C++, AWS, React",Mid,Software Engineer,58.8,"React, Machine Learning, Node.js, Data Science, AWS",49
+U147,"Java, Machine Learning, Node.js",Senior,Software Engineer,62.17,"Python, React, Data Science, C++",8
+U148,"Data Science, Node.js",Senior,Backend Developer,90.35,"SQL, Node.js, Machine Learning, Data Science",68
+U149,"Node.js, C++, JavaScript",Entry,Backend Developer,97.63,"Machine Learning, C++",75
+U150,"SQL, Java, Python, Data Science",Senior,Data Scientist,80.24,"SQL, C++, React",99
+U151,"C++, Java, React",Entry,AI Engineer,88.97,"JavaScript, React",22
+U152,"C++, Python, Node.js, JavaScript, AWS",Mid,Software Engineer,54.74,"AWS, C++",39
+U153,"Data Science, AWS, SQL, Python, React",Entry,Data Scientist,58.04,"JavaScript, Node.js, C++, Java, AWS",28
+U154,"React, C++, Node.js",Senior,Software Engineer,89.77,"JavaScript, React, Data Science",95
+U155,"Python, AWS, Data Science, React",Senior,Data Scientist,59.18,"Java, Data Science, Node.js",17
+U156,"SQL, JavaScript, Python, Machine Learning, C++",Entry,Frontend Developer,60.22,"Data Science, Machine Learning, Python, React, JavaScript",74
+U157,"SQL, Data Science, Node.js, Machine Learning",Senior,Software Engineer,95.19,"C++, React, Python, JavaScript, Java",39
+U158,"JavaScript, React",Mid,Data Scientist,69.68,"Node.js, JavaScript",42
+U159,"Java, Node.js",Entry,Software Engineer,51.43,"Python, Java, Machine Learning",29
+U160,"JavaScript, React, C++",Entry,Frontend Developer,78.47,"Node.js, SQL, Machine Learning",63
+U161,"Machine Learning, AWS, C++, SQL",Senior,Cloud Engineer,55.46,"React, AWS",6
+U162,"AWS, Java, Machine Learning, C++",Mid,Frontend Developer,67.83,"AWS, Data Science, JavaScript",51
+U163,"Data Science, Java",Entry,Frontend Developer,63.5,"React, AWS, Data Science, Python",83
+U164,"JavaScript, Java, C++",Senior,Cloud Engineer,87.59,"Machine Learning, JavaScript, Java",33
+U165,"Python, Java, Node.js, React, Data Science",Senior,AI Engineer,85.75,"C++, Python, AWS, React",68
+U166,"AWS, Python, JavaScript, Java",Entry,Backend Developer,54.62,"Java, React, AWS, Machine Learning",76
+U167,"React, Machine Learning, Python, C++, Data Science",Senior,Software Engineer,78.79,"C++, Node.js, Python, Data Science",90
+U168,"SQL, Node.js, React",Mid,Cloud Engineer,90.25,"SQL, JavaScript, Data Science, AWS",52
+U169,"AWS, Python",Mid,Cloud Engineer,63.91,"SQL, AWS, Python, JavaScript",52
+U170,"Java, React",Mid,Data Scientist,83.38,"Data Science, Java",78
+U171,"Machine Learning, Java, Data Science",Entry,Software Engineer,53.2,"C++, Machine Learning, Java, React",8
+U172,"Data Science, Machine Learning, JavaScript, AWS",Entry,Data Scientist,74.12,"Java, Node.js",75
+U173,"Python, React, AWS",Mid,AI Engineer,67.23,"Java, React, Python, AWS",76
+U174,"JavaScript, Node.js",Senior,Data Scientist,55.82,"Machine Learning, AWS, Java, JavaScript, SQL",82
+U175,"Machine Learning, JavaScript, Java",Entry,Software Engineer,96.94,"React, Machine Learning, C++, Node.js",85
+U176,"Data Science, Java, Node.js, SQL",Senior,Frontend Developer,70.44,"AWS, Machine Learning",5
+U177,"JavaScript, Data Science, AWS, Java, Machine Learning",Mid,Cloud Engineer,97.41,"Node.js, SQL, Machine Learning, React, JavaScript",100
+U178,"Python, Java",Mid,Software Engineer,50.58,"Java, Python, JavaScript, Machine Learning, SQL",63
+U179,"Data Science, Node.js, AWS, Java",Senior,AI Engineer,63.38,"Machine Learning, React, Java, C++",39
+U180,"Data Science, React, Machine Learning, SQL, JavaScript",Entry,Data Scientist,87.96,"Python, Data Science, Machine Learning, Node.js",91
+U181,"SQL, C++, AWS, Data Science",Senior,AI Engineer,88.95,"AWS, Data Science",37
+U182,"Node.js, Data Science, Java, JavaScript",Mid,Data Scientist,81.11,"AWS, Python, React, Data Science",33
+U183,"JavaScript, SQL, C++, React",Senior,AI Engineer,87.73,"Machine Learning, Data Science, C++, React",24
+U184,"AWS, Node.js",Senior,Frontend Developer,76.86,"JavaScript, React, Data Science, Java, AWS",85
+U185,"Data Science, C++, Machine Learning",Senior,Software Engineer,67.09,"JavaScript, Data Science, Node.js",18
+U186,"Java, Data Science",Mid,Data Scientist,94.11,"C++, SQL, Machine Learning, Data Science",94
+U187,"Python, Node.js",Entry,Cloud Engineer,57.25,"Node.js, SQL, Data Science, AWS",60
+U188,"Data Science, React, Node.js, SQL",Senior,Cloud Engineer,91.64,"AWS, React, Machine Learning, Java",72
+U189,"Data Science, JavaScript",Mid,Data Scientist,84.41,"React, Data Science, Java",32
+U190,"Data Science, Node.js, C++, JavaScript",Mid,Backend Developer,76.48,"SQL, C++, Machine Learning, React, Node.js",50
+U191,"Python, C++",Senior,Cloud Engineer,91.72,"Node.js, Machine Learning, SQL, JavaScript, C++",99
+U192,"Java, JavaScript, Data Science, C++",Mid,AI Engineer,58.7,"Python, Data Science",14
+U193,"Python, SQL, Node.js, Java",Senior,Frontend Developer,72.55,"Java, AWS, Data Science",82
+U194,"C++, Node.js, Java, Python, Data Science",Entry,Frontend Developer,93.96,"Data Science, SQL, Machine Learning",29
+U195,"Node.js, AWS, Python, Java, C++",Senior,Cloud Engineer,69.81,"Python, Data Science, Machine Learning, React, Node.js",19
+U196,"Java, C++, Data Science",Mid,Backend Developer,60.56,"AWS, JavaScript, Node.js",83
+U197,"Machine Learning, AWS, Python, SQL",Senior,Backend Developer,96.93,"AWS, React, C++, Node.js",93
+U198,"SQL, Node.js, AWS, Java",Entry,Data Scientist,94.82,"Machine Learning, C++",74
+U199,"React, Machine Learning, C++",Entry,Frontend Developer,85.18,"AWS, Python, Machine Learning",19
+U200,"SQL, Java, Data Science, C++",Senior,Cloud Engineer,63.39,"Machine Learning, C++, React, Java",12
+U201,"React, C++",Mid,Backend Developer,57.85,"Data Science, AWS, React, JavaScript, Node.js",74
+U202,"JavaScript, AWS, Node.js, SQL, C++",Senior,Frontend Developer,92.77,"Python, Data Science, C++, SQL",48
+U203,"Machine Learning, Node.js, AWS",Mid,Cloud Engineer,71.75,"Java, Data Science",29
+U204,"C++, Machine Learning, JavaScript",Senior,Cloud Engineer,75.47,"React, Java, Node.js",33
+U205,"React, Machine Learning, JavaScript, Python",Entry,AI Engineer,85.89,"Python, C++",50
+U206,"JavaScript, Java, Python, Machine Learning, Data Science",Entry,Data Scientist,73.82,"Java, React, Node.js, Machine Learning, JavaScript",6
+U207,"Machine Learning, C++, AWS, Node.js, JavaScript",Senior,Cloud Engineer,72.31,"SQL, C++",43
+U208,"AWS, Node.js, C++, JavaScript",Entry,Backend Developer,82.94,"AWS, Node.js, Data Science",90
+U209,"C++, Node.js, Machine Learning, SQL",Mid,Data Scientist,69.51,"Java, Data Science, C++",68
+U210,"React, JavaScript, SQL, AWS, C++",Senior,Backend Developer,87.09,"JavaScript, React, Python",53
+U211,"Node.js, Java, SQL",Mid,Cloud Engineer,74.59,"SQL, JavaScript",97
+U212,"Machine Learning, Data Science, Node.js, React",Mid,Backend Developer,80.63,"Data Science, Node.js, SQL",8
+U213,"AWS, JavaScript",Senior,Frontend Developer,59.65,"JavaScript, Node.js",14
+U214,"SQL, JavaScript, React, Node.js",Entry,Software Engineer,88.79,"C++, AWS, Machine Learning",32
+U215,"JavaScript, Data Science, Machine Learning, React, Node.js",Entry,AI Engineer,96.57,"Node.js, Machine Learning, JavaScript, Java, SQL",68
+U216,"React, Node.js",Senior,Backend Developer,71.63,"Java, JavaScript, Node.js, SQL",68
+U217,"Node.js, JavaScript",Mid,Cloud Engineer,67.97,"React, Machine Learning",19
+U218,"Python, Machine Learning",Senior,AI Engineer,71.08,"AWS, Data Science",23
+U219,"Machine Learning, AWS, Data Science, Java",Entry,Cloud Engineer,81.27,"Node.js, Machine Learning, Python, React",24
+U220,"Java, AWS, SQL, Data Science, C++",Senior,Backend Developer,59.18,"C++, Node.js, Data Science",75
+U221,"Node.js, React",Senior,Cloud Engineer,90.16,"JavaScript, Data Science, Python",68
+U222,"SQL, Machine Learning, Node.js",Mid,Frontend Developer,89.69,"C++, Data Science, AWS, SQL",82
+U223,"React, Data Science, Java",Mid,Frontend Developer,61.02,"Java, C++",10
+U224,"Machine Learning, Node.js",Mid,Cloud Engineer,88.52,"Machine Learning, Python, AWS, Java",73
+U225,"Java, Data Science, JavaScript",Entry,Cloud Engineer,91.67,"Data Science, SQL, JavaScript",50
+U226,"Node.js, React, Data Science, Machine Learning, JavaScript",Senior,Data Scientist,97.52,"Python, React, Data Science",21
+U227,"JavaScript, Node.js, Python",Entry,AI Engineer,76.63,"Python, SQL, Java, AWS, Node.js",71
+U228,"SQL, React",Mid,Backend Developer,95.84,"Java, AWS, Node.js, JavaScript, C++",32
+U229,"Machine Learning, React, AWS",Senior,Backend Developer,86.21,"Data Science, SQL, JavaScript, Machine Learning",32
+U230,"Java, Python, Machine Learning, AWS",Entry,Frontend Developer,80.41,"Node.js, Python, JavaScript",39
+U231,"Node.js, Data Science, Java",Entry,Cloud Engineer,59.65,"React, C++, Data Science, JavaScript",54
+U232,"Machine Learning, C++, Python",Mid,Data Scientist,58.63,"JavaScript, AWS, Machine Learning, SQL",71
+U233,"SQL, Python",Mid,Software Engineer,65.73,"Machine Learning, SQL, React",70
+U234,"SQL, AWS, Node.js, Data Science",Entry,Backend Developer,90.3,"AWS, React, JavaScript, Machine Learning, Python",72
+U235,"Node.js, Machine Learning, C++",Entry,Cloud Engineer,94.28,"SQL, C++",82
+U236,"Python, JavaScript",Senior,Backend Developer,98.74,"SQL, Machine Learning, Data Science, AWS, Node.js",38
+U237,"Data Science, C++, Machine Learning, AWS, Python",Senior,Software Engineer,83.78,"Python, React",35
+U238,"Node.js, Machine Learning, SQL, Java, C++",Mid,Frontend Developer,50.15,"C++, Machine Learning",98
+U239,"AWS, SQL, C++",Senior,Cloud Engineer,58.89,"SQL, React, AWS, Data Science",82
+U240,"AWS, C++, Data Science, SQL, Machine Learning",Mid,Backend Developer,93.32,"Java, Data Science",60
+U241,"Python, Machine Learning, SQL",Senior,Cloud Engineer,58.51,"Python, AWS, React, SQL, Node.js",8
+U242,"JavaScript, Data Science, C++, SQL, AWS",Mid,AI Engineer,54.85,"C++, AWS, React, SQL, Node.js",34
+U243,"Node.js, Data Science, AWS, Python",Mid,Data Scientist,57.44,"Data Science, SQL, Python, React, Java",48
+U244,"SQL, JavaScript",Mid,Frontend Developer,53.73,"Machine Learning, JavaScript, Data Science",41
+U245,"AWS, JavaScript, Python, Machine Learning, Node.js",Mid,Software Engineer,54.13,"Java, JavaScript, React, AWS",16
+U246,"AWS, Python",Senior,AI Engineer,87.15,"AWS, Node.js, Java, JavaScript",21
+U247,"Python, Java",Senior,Data Scientist,83.05,"SQL, AWS, Data Science, Python",9
+U248,"JavaScript, Node.js, Machine Learning, Python, SQL",Senior,AI Engineer,70.77,"Java, JavaScript, C++, React",96
+U249,"React, Data Science",Mid,Backend Developer,98.65,"Java, Python",19
+U250,"React, Machine Learning",Mid,Cloud Engineer,93.33,"JavaScript, Java",37
+U251,"Data Science, Python, AWS, React, Node.js",Senior,Frontend Developer,57.42,"JavaScript, C++, SQL, AWS, Data Science",88
+U252,"C++, React, Python, JavaScript, Node.js",Mid,Backend Developer,56.77,"React, Node.js, JavaScript, Data Science, Java",11
+U253,"Node.js, Python, AWS, Java",Mid,AI Engineer,58.84,"C++, AWS, Python, Data Science",22
+U254,"Java, Python, JavaScript, C++",Mid,Software Engineer,67.97,"React, Node.js, Java",17
+U255,"Python, C++",Entry,AI Engineer,89.95,"AWS, Python, React",40
+U256,"React, Data Science, Node.js, Python, JavaScript",Mid,Frontend Developer,98.56,"C++, Node.js",35
+U257,"Node.js, Machine Learning, Python, Data Science, JavaScript",Mid,AI Engineer,75.57,"C++, Java, Python",74
+U258,"Data Science, Machine Learning, Node.js",Mid,AI Engineer,53.62,"Machine Learning, SQL, Data Science, C++, Node.js",18
+U259,"AWS, Java, React, Node.js, C++",Senior,Frontend Developer,66.01,"AWS, Data Science, Python",73
+U260,"JavaScript, SQL, C++, Node.js",Senior,AI Engineer,95.01,"JavaScript, Data Science, C++, AWS",15
+U261,"Java, Machine Learning",Mid,Software Engineer,77.38,"C++, Machine Learning, JavaScript, Node.js",16
+U262,"Data Science, SQL, Java, AWS",Entry,Cloud Engineer,97.13,"C++, Data Science",95
+U263,"Java, React, Data Science",Entry,Frontend Developer,77.24,"AWS, SQL, Node.js, Data Science, JavaScript",87
+U264,"Node.js, C++",Senior,Frontend Developer,65.11,"Java, Python, SQL",74
+U265,"Python, Node.js",Senior,Frontend Developer,78.26,"C++, SQL, AWS, JavaScript, React",56
+U266,"Data Science, AWS, C++, React",Mid,Cloud Engineer,75.58,"C++, Python, React, Java, Machine Learning",60
+U267,"Machine Learning, SQL, Data Science, C++",Senior,Cloud Engineer,71.38,"Machine Learning, Data Science, SQL, C++",51
+U268,"JavaScript, AWS, Java, Data Science",Senior,Software Engineer,61.0,"Node.js, Data Science, AWS, Python",32
+U269,"Machine Learning, SQL, Data Science, Node.js",Entry,Backend Developer,86.8,"JavaScript, AWS, Python",60
+U270,"Python, Java, Node.js, JavaScript, AWS",Senior,AI Engineer,84.67,"React, AWS, JavaScript, Java",42
+U271,"Python, Data Science, AWS",Senior,Data Scientist,67.54,"SQL, JavaScript, AWS, React, C++",48
+U272,"React, Machine Learning",Mid,Software Engineer,62.76,"C++, JavaScript, Data Science",70
+U273,"Python, C++, Node.js",Mid,Frontend Developer,54.22,"Data Science, SQL, JavaScript, React, AWS",15
+U274,"Java, React, Node.js, Machine Learning, AWS",Senior,Software Engineer,56.11,"Data Science, JavaScript, Python, React",56
+U275,"Machine Learning, React, Node.js, Python",Mid,AI Engineer,93.72,"Python, Node.js, AWS, Data Science, SQL",56
+U276,"C++, AWS",Senior,Cloud Engineer,61.03,"Data Science, Node.js, AWS, SQL",72
+U277,"Machine Learning, SQL, Node.js",Senior,Backend Developer,50.54,"React, Python, Data Science, Machine Learning",44
+U278,"C++, Python, SQL, React",Entry,Data Scientist,55.75,"Java, SQL",39
+U279,"Machine Learning, Java, Node.js, AWS, SQL",Entry,Frontend Developer,93.79,"Machine Learning, Java, C++",53
+U280,"Node.js, Java, AWS, Python",Senior,Backend Developer,54.75,"C++, Machine Learning",57
+U281,"Python, C++",Entry,Data Scientist,67.82,"C++, Machine Learning",71
+U282,"AWS, C++, React",Senior,Software Engineer,71.73,"C++, Java, AWS",83
+U283,"SQL, Python, React",Entry,Backend Developer,51.27,"AWS, Python, Machine Learning, Node.js",97
+U284,"SQL, Machine Learning, Java, Node.js, C++",Senior,AI Engineer,62.42,"Data Science, Node.js",17
+U285,"Data Science, AWS, C++, Python, Machine Learning",Entry,Software Engineer,91.17,"React, Machine Learning, Node.js, AWS, JavaScript",78
+U286,"C++, JavaScript, Machine Learning",Senior,Data Scientist,71.97,"C++, JavaScript, AWS, Node.js, Machine Learning",46
+U287,"Java, Python, C++, Machine Learning",Entry,Software Engineer,56.42,"Data Science, Java, React, Python, SQL",98
+U288,"Node.js, Data Science, AWS, React",Senior,Backend Developer,63.46,"Python, SQL, React, C++",60
+U289,"SQL, Machine Learning, Node.js, JavaScript",Senior,Frontend Developer,93.45,"Data Science, SQL, Python, JavaScript, Java",92
+U290,"Node.js, Java, Python",Mid,Software Engineer,66.35,"Data Science, C++",96
+U291,"Python, SQL, JavaScript, Node.js",Entry,Cloud Engineer,56.37,"React, Python, Machine Learning",7
+U292,"Node.js, React, SQL",Senior,Cloud Engineer,86.2,"JavaScript, Data Science, Node.js, C++",22
+U293,"Machine Learning, Node.js, JavaScript, Java",Senior,Data Scientist,96.91,"React, Machine Learning, Data Science, AWS, Python",33
+U294,"Node.js, SQL",Entry,AI Engineer,62.88,"C++, React, AWS, Python, SQL",92
+U295,"Python, Node.js, Data Science",Entry,Frontend Developer,72.14,"C++, Machine Learning",6
+U296,"AWS, SQL",Entry,Frontend Developer,57.65,"Node.js, JavaScript, Java, C++, AWS",89
+U297,"JavaScript, Data Science",Entry,Software Engineer,54.66,"AWS, Java",24
+U298,"C++, JavaScript",Senior,Software Engineer,75.37,"Java, React, Machine Learning, SQL",54
+U299,"Node.js, Java, SQL, Python",Senior,AI Engineer,85.68,"JavaScript, SQL, Python, Node.js, Data Science",70
+U300,"JavaScript, SQL, C++, Python, Data Science",Entry,Backend Developer,94.86,"Java, Python, JavaScript, AWS, Data Science",94
+U301,"React, C++, Machine Learning, Data Science",Entry,Backend Developer,56.7,"SQL, Machine Learning",11
+U302,"Data Science, React, Node.js",Senior,Data Scientist,85.02,"AWS, Python, Data Science",5
+U303,"Data Science, Java, Machine Learning, React, Node.js",Entry,Backend Developer,77.57,"React, AWS, Data Science, C++",81
+U304,"Java, Node.js, C++, AWS",Senior,Backend Developer,87.78,"JavaScript, Data Science, Java, Node.js, Python",64
+U305,"Node.js, AWS, JavaScript",Entry,Backend Developer,67.84,"Node.js, React, Data Science",25
+U306,"Python, C++",Mid,Backend Developer,75.54,"Python, SQL, C++, Node.js",31
+U307,"Node.js, Java, Machine Learning, SQL",Entry,Cloud Engineer,52.9,"Machine Learning, AWS, React, Node.js, Java",38
+U308,"Python, Data Science, JavaScript, C++, React",Senior,Cloud Engineer,82.72,"Java, React, JavaScript, Machine Learning",30
+U309,"AWS, Java",Mid,AI Engineer,66.35,"SQL, AWS, JavaScript",16
+U310,"Python, Machine Learning, C++",Senior,Frontend Developer,57.69,"Java, JavaScript, Data Science, Node.js, Python",97
+U311,"Java, Machine Learning, SQL, React",Senior,Data Scientist,66.46,"Machine Learning, AWS, SQL",91
+U312,"JavaScript, AWS, React, Machine Learning",Mid,AI Engineer,87.47,"Node.js, Python",26
+U313,"JavaScript, Machine Learning",Mid,Backend Developer,79.67,"AWS, Python, Java, SQL",9
+U314,"SQL, Machine Learning, Node.js",Mid,Backend Developer,68.35,"C++, SQL, React",87
+U315,"Python, Machine Learning",Mid,Data Scientist,60.45,"Data Science, Python, React",79
+U316,"React, Node.js, AWS, Data Science, C++",Entry,Software Engineer,57.1,"C++, SQL, Data Science, Machine Learning",43
+U317,"Machine Learning, Python, Java",Senior,Frontend Developer,93.16,"AWS, React, Python, C++, JavaScript",36
+U318,"C++, React, Node.js, JavaScript, Python",Entry,Frontend Developer,65.03,"C++, AWS, SQL, React",76
+U319,"Data Science, Java, Machine Learning, C++",Mid,Data Scientist,98.08,"JavaScript, Data Science, SQL",100
+U320,"React, AWS",Mid,Software Engineer,52.45,"Node.js, React",35
+U321,"JavaScript, SQL, Machine Learning",Entry,Software Engineer,95.62,"Python, Node.js, Machine Learning, Java, Data Science",51
+U322,"C++, Java, AWS",Senior,Cloud Engineer,81.99,"React, Java, Data Science, AWS, JavaScript",86
+U323,"Machine Learning, Data Science, C++",Senior,Frontend Developer,57.88,"Java, Python, JavaScript, AWS, Data Science",31
+U324,"Machine Learning, Node.js, React",Mid,Cloud Engineer,65.03,"C++, Java",40
+U325,"Python, SQL",Mid,Frontend Developer,93.52,"Python, SQL, Java, Data Science",19
+U326,"React, Machine Learning, Data Science, Node.js, Java",Senior,Data Scientist,55.02,"Python, AWS, Data Science, Node.js, Machine Learning",100
+U327,"Machine Learning, Data Science, C++",Entry,Data Scientist,82.8,"C++, React",12
+U328,"Java, C++",Senior,Software Engineer,98.68,"Node.js, JavaScript",24
+U329,"C++, Node.js, AWS, Machine Learning, React",Mid,Data Scientist,81.55,"AWS, Java, JavaScript",86
+U330,"C++, React, Node.js",Entry,Software Engineer,97.09,"Java, React, Data Science",20
+U331,"React, SQL, Data Science, Python, C++",Mid,Software Engineer,66.48,"Python, JavaScript, SQL, React, C++",24
+U332,"Java, SQL, JavaScript",Senior,Data Scientist,77.12,"Node.js, JavaScript, Java",69
+U333,"Node.js, Data Science, C++",Entry,Data Scientist,61.05,"Java, Python, React, Machine Learning",85
+U334,"SQL, Data Science, JavaScript, Java, Python",Senior,Software Engineer,74.49,"Node.js, JavaScript",94
+U335,"Machine Learning, AWS",Senior,Data Scientist,75.68,"C++, Machine Learning, React, Node.js, Python",56
+U336,"Python, SQL, AWS, React, Data Science",Entry,Frontend Developer,77.38,"JavaScript, React, Machine Learning, C++, SQL",86
+U337,"Data Science, Java, SQL, C++, Python",Entry,AI Engineer,93.08,"SQL, Data Science, Java, JavaScript, Node.js",47
+U338,"Machine Learning, SQL, AWS, C++",Mid,Backend Developer,50.15,"SQL, Machine Learning, Data Science, JavaScript, Java",47
+U339,"Data Science, JavaScript, SQL",Senior,Frontend Developer,99.15,"Python, Node.js, Machine Learning",90
+U340,"Node.js, Data Science, JavaScript, Python, Machine Learning",Mid,Backend Developer,68.73,"SQL, Java, React, AWS, Machine Learning",39
+U341,"Data Science, Node.js",Senior,Software Engineer,85.9,"React, Machine Learning, Python, Java, JavaScript",91
+U342,"SQL, Machine Learning",Mid,Software Engineer,64.5,"Node.js, Data Science",47
+U343,"Machine Learning, React, AWS, Java, Data Science",Senior,Data Scientist,74.34,"Java, React, JavaScript",29
+U344,"C++, React, Python, JavaScript, Node.js",Entry,Cloud Engineer,75.27,"Java, C++, React",65
+U345,"AWS, C++, Machine Learning, Java, JavaScript",Mid,AI Engineer,51.78,"Node.js, Machine Learning, JavaScript, Python",27
+U346,"AWS, SQL, React",Mid,Cloud Engineer,92.03,"C++, React, Node.js, AWS",93
+U347,"Node.js, React, Python, Java",Senior,Backend Developer,75.9,"Data Science, SQL, Node.js, Machine Learning",83
+U348,"JavaScript, Machine Learning, Data Science, React, C++",Mid,AI Engineer,66.41,"React, AWS, C++, Machine Learning, Java",92
+U349,"C++, JavaScript, AWS, React",Senior,Frontend Developer,52.7,"Node.js, JavaScript, Java, React, Python",10
+U350,"Data Science, JavaScript, AWS, Machine Learning, React",Senior,Backend Developer,93.39,"Node.js, Machine Learning, JavaScript",57
+U351,"AWS, SQL, Node.js",Mid,Software Engineer,55.76,"Machine Learning, AWS, SQL, Python, React",16
+U352,"JavaScript, AWS, Java, Machine Learning",Senior,Data Scientist,96.1,"C++, Data Science, JavaScript",23
+U353,"AWS, JavaScript, SQL, Machine Learning, Python",Mid,Data Scientist,99.49,"Machine Learning, SQL, React, Java",53
+U354,"SQL, Data Science, JavaScript",Entry,AI Engineer,91.58,"C++, Java",39
+U355,"Machine Learning, Java, SQL, C++, AWS",Senior,Backend Developer,64.86,"Python, Node.js, Java, SQL",81
+U356,"Data Science, React",Senior,Backend Developer,98.41,"SQL, Python, AWS, Data Science, JavaScript",20
+U357,"SQL, C++",Senior,AI Engineer,96.21,"JavaScript, AWS",17
+U358,"Data Science, Machine Learning",Mid,AI Engineer,78.54,"Data Science, Python, C++, Node.js",51
+U359,"Machine Learning, Java, Data Science, AWS, SQL",Senior,Frontend Developer,69.55,"AWS, JavaScript, Node.js, SQL",18
+U360,"Python, Data Science, SQL, JavaScript",Mid,Backend Developer,82.58,"JavaScript, Node.js, C++",77
+U361,"React, AWS, Data Science",Entry,Cloud Engineer,69.61,"Data Science, JavaScript, C++, AWS, SQL",36
+U362,"AWS, Machine Learning, JavaScript, Data Science",Senior,Software Engineer,84.41,"JavaScript, Node.js",65
+U363,"Machine Learning, Python, AWS, Node.js, SQL",Mid,Backend Developer,68.83,"Python, JavaScript, React, Machine Learning",87
+U364,"Java, SQL, Node.js",Senior,AI Engineer,76.15,"React, C++, Python",23
+U365,"Data Science, Node.js, JavaScript",Senior,Frontend Developer,99.08,"Java, React, Data Science",63
+U366,"C++, React, Data Science, SQL, Node.js",Entry,Frontend Developer,92.3,"React, Java, Data Science",32
+U367,"Machine Learning, Data Science, Node.js",Mid,Cloud Engineer,96.2,"SQL, Python, JavaScript, Data Science, Java",7
+U368,"React, Data Science, JavaScript",Mid,Data Scientist,76.13,"Python, Java, JavaScript",77
+U369,"Data Science, Python, Node.js, JavaScript",Entry,AI Engineer,57.59,"C++, Node.js, Python, React",94
+U370,"Data Science, SQL, JavaScript",Entry,Data Scientist,99.46,"Data Science, Machine Learning",34
+U371,"C++, Node.js, Machine Learning, AWS, Data Science",Mid,Cloud Engineer,71.74,"React, Data Science, Machine Learning, AWS, JavaScript",90
+U372,"Java, Node.js, C++, React, AWS",Mid,Data Scientist,58.37,"Data Science, Machine Learning, JavaScript",43
+U373,"JavaScript, Node.js, Machine Learning, Python",Senior,Software Engineer,70.01,"React, C++, JavaScript, Data Science",41
+U374,"Data Science, JavaScript, React",Mid,Backend Developer,61.1,"Node.js, Machine Learning, SQL",20
+U375,"Machine Learning, JavaScript, C++, AWS",Mid,Data Scientist,79.76,"Data Science, C++, Python",16
+U376,"Java, Data Science, JavaScript, Node.js",Mid,Backend Developer,56.35,"Python, SQL, Node.js, Machine Learning, AWS",89
+U377,"Python, Node.js",Mid,Backend Developer,82.44,"C++, SQL, Python, Java, Node.js",88
+U378,"Python, SQL, C++",Mid,Data Scientist,80.57,"C++, Node.js, React",61
+U379,"Node.js, Machine Learning, Data Science, JavaScript, React",Senior,Backend Developer,52.23,"SQL, Python, AWS, React",84
+U380,"SQL, Java, Node.js, Data Science, C++",Mid,Software Engineer,69.52,"C++, SQL",96
+U381,"Java, C++, Python",Mid,Software Engineer,68.67,"Machine Learning, Data Science, Node.js, C++, React",63
+U382,"AWS, Java, Data Science, C++, Python",Mid,Cloud Engineer,60.1,"Machine Learning, AWS, C++, React",77
+U383,"Java, Python",Mid,Backend Developer,71.03,"SQL, C++, Machine Learning",11
+U384,"Data Science, AWS, SQL, React, Machine Learning",Entry,Software Engineer,50.3,"React, Node.js, Data Science",69
+U385,"Java, JavaScript",Mid,Data Scientist,52.11,"Data Science, SQL, JavaScript, React, C++",71
+U386,"AWS, Java, Python, React, C++",Mid,Cloud Engineer,82.27,"C++, Machine Learning",36
+U387,"AWS, Python, Node.js",Mid,Frontend Developer,57.0,"React, JavaScript, Python, Data Science",31
+U388,"Node.js, Java",Senior,Cloud Engineer,52.93,"Node.js, Machine Learning",19
+U389,"JavaScript, SQL",Senior,Frontend Developer,74.95,"Node.js, C++",84
+U390,"Machine Learning, Node.js, JavaScript, SQL, C++",Entry,AI Engineer,58.74,"Python, Java",68
+U391,"Machine Learning, React, JavaScript",Entry,Backend Developer,75.23,"Java, JavaScript",22
+U392,"C++, SQL, Node.js, React",Senior,Software Engineer,50.92,"React, AWS, Data Science, C++, Node.js",98
+U393,"Machine Learning, C++, Java",Mid,Frontend Developer,74.64,"React, Data Science, Machine Learning, JavaScript, AWS",23
+U394,"React, Machine Learning, Python",Mid,Frontend Developer,64.78,"SQL, Node.js, JavaScript, Machine Learning",60
+U395,"Machine Learning, Java",Entry,Software Engineer,97.94,"Node.js, Machine Learning, Data Science",57
+U396,"AWS, Machine Learning, React, Java",Senior,Software Engineer,55.97,"JavaScript, Node.js, Java, Data Science, React",88
+U397,"Data Science, Java, SQL, Node.js, JavaScript",Senior,Software Engineer,88.66,"Java, AWS, JavaScript, SQL",9
+U398,"SQL, Python",Senior,Backend Developer,70.17,"C++, SQL, Node.js, Machine Learning, React",92
+U399,"Python, Data Science",Entry,Cloud Engineer,77.09,"Java, React, AWS, Node.js, SQL",72
+U400,"JavaScript, AWS, Data Science, Machine Learning, Python",Mid,Data Scientist,74.79,"C++, SQL, Node.js, JavaScript, Data Science",71
+U401,"React, JavaScript",Entry,Frontend Developer,73.91,"Python, Data Science, React, JavaScript, AWS",66
+U402,"Data Science, Java, AWS, SQL",Mid,Data Scientist,63.68,"SQL, Data Science, AWS, Python, Node.js",78
+U403,"AWS, Machine Learning, Java, Node.js",Mid,AI Engineer,89.36,"Data Science, JavaScript, AWS",31
+U404,"SQL, JavaScript, Python",Mid,Backend Developer,81.8,"Machine Learning, Java, SQL",55
+U405,"Node.js, AWS",Entry,AI Engineer,68.86,"AWS, Python, JavaScript, SQL",49
+U406,"Node.js, JavaScript, React, SQL",Senior,Software Engineer,79.85,"Machine Learning, Python, Data Science",47
+U407,"C++, Data Science, JavaScript",Mid,Frontend Developer,95.39,"Machine Learning, C++, Data Science, Java",24
+U408,"React, JavaScript",Senior,AI Engineer,94.29,"Node.js, Python",21
+U409,"Data Science, AWS, JavaScript, Machine Learning",Entry,Data Scientist,66.52,"Python, Java, JavaScript, C++",91
+U410,"C++, Python, Data Science, Machine Learning, React",Mid,Cloud Engineer,92.99,"Data Science, Node.js",58
+U411,"Node.js, C++, AWS, Machine Learning, SQL",Senior,Backend Developer,54.73,"JavaScript, AWS, Java",41
+U412,"React, Python, Machine Learning, AWS",Senior,Software Engineer,69.08,"Data Science, C++, AWS, Python",16
+U413,"SQL, AWS, Data Science, Machine Learning",Entry,AI Engineer,67.85,"SQL, React, Node.js, Java",74
+U414,"SQL, Machine Learning",Mid,AI Engineer,81.2,"SQL, Node.js",27
+U415,"SQL, React, C++, Node.js",Senior,Backend Developer,53.33,"Machine Learning, JavaScript",81
+U416,"C++, React, SQL, Node.js, Python",Senior,Cloud Engineer,68.79,"JavaScript, Python, Machine Learning",63
+U417,"Node.js, React, Java, SQL",Entry,AI Engineer,64.22,"Node.js, Machine Learning, AWS, Python",42
+U418,"Machine Learning, JavaScript, Data Science",Senior,Cloud Engineer,64.19,"Java, AWS",16
+U419,"JavaScript, Python, AWS, React",Senior,Backend Developer,88.94,"Java, C++, Python, JavaScript",18
+U420,"JavaScript, Node.js, SQL",Mid,Backend Developer,58.03,"React, Java",30
+U421,"Python, C++, AWS",Entry,Software Engineer,78.09,"Python, Data Science, C++, SQL",90
+U422,"AWS, Data Science, React, C++, SQL",Entry,Backend Developer,79.74,"React, JavaScript, AWS, Python, Java",69
+U423,"Node.js, Python, JavaScript, C++, AWS",Entry,Software Engineer,75.16,"SQL, Node.js, JavaScript, Data Science",46
+U424,"C++, Data Science, Python",Senior,Software Engineer,69.96,"Java, Node.js, React, C++, JavaScript",81
+U425,"React, Python",Entry,Cloud Engineer,73.05,"Data Science, Machine Learning",9
+U426,"Java, SQL, Data Science, Node.js",Mid,Cloud Engineer,78.24,"Node.js, JavaScript, Python, C++",67
+U427,"React, Python",Mid,Frontend Developer,97.74,"Data Science, Java, C++, Machine Learning, Python",69
+U428,"AWS, React, SQL, Machine Learning, Java",Senior,AI Engineer,82.02,"Java, C++, SQL, AWS",64
+U429,"Node.js, Python, C++, Data Science, Machine Learning",Entry,Data Scientist,75.06,"React, Python",87
+U430,"Data Science, Java, Python, SQL",Entry,Data Scientist,65.13,"Data Science, Java",88
+U431,"Python, C++, Node.js, React",Entry,Cloud Engineer,84.8,"React, Python, Java, Data Science",72
+U432,"AWS, SQL, React, Java",Senior,Software Engineer,90.61,"Node.js, SQL, AWS, Python, React",74
+U433,"React, Machine Learning, Python, JavaScript",Mid,Frontend Developer,68.71,"JavaScript, AWS",23
+U434,"Data Science, SQL, Machine Learning",Entry,Data Scientist,89.76,"SQL, JavaScript, Machine Learning, Java",37
+U435,"React, AWS, Machine Learning",Entry,Software Engineer,58.75,"JavaScript, C++, SQL, Data Science, Machine Learning",29
+U436,"Java, JavaScript",Mid,Cloud Engineer,63.24,"Java, SQL, Machine Learning, Data Science",38
+U437,"React, Python",Senior,Data Scientist,56.79,"Java, Machine Learning",47
+U438,"Data Science, Machine Learning, C++, AWS, Python",Mid,Backend Developer,61.66,"Node.js, Java, Python, AWS",39
+U439,"Node.js, JavaScript, Machine Learning, C++",Senior,Frontend Developer,66.61,"Data Science, Machine Learning, Python, AWS, React",49
+U440,"Python, Machine Learning, SQL, C++, Data Science",Mid,Software Engineer,60.47,"Node.js, Python",11
+U441,"SQL, Java",Senior,Backend Developer,88.74,"Node.js, C++, Python, SQL, AWS",80
+U442,"Data Science, Python",Senior,Cloud Engineer,70.94,"Node.js, Java, C++, JavaScript, AWS",94
+U443,"Node.js, Machine Learning",Senior,Backend Developer,56.95,"C++, Machine Learning, JavaScript, Node.js",35
+U444,"Python, SQL, React, Java",Entry,Frontend Developer,92.13,"Data Science, SQL",27
+U445,"Node.js, AWS, C++, Java",Mid,Data Scientist,92.13,"JavaScript, C++",84
+U446,"Data Science, AWS",Senior,Cloud Engineer,85.06,"Data Science, React, AWS, C++, Java",53
+U447,"React, Node.js, AWS, Python",Senior,Cloud Engineer,58.49,"AWS, React, Python, Java",33
+U448,"Machine Learning, React, C++",Senior,Software Engineer,83.86,"Python, React, Java, C++",90
+U449,"Python, SQL, Machine Learning",Entry,AI Engineer,59.77,"Machine Learning, Node.js, JavaScript",28
+U450,"React, C++",Entry,AI Engineer,57.07,"React, AWS, JavaScript, Java",16
+U451,"Machine Learning, AWS, SQL, C++",Mid,Cloud Engineer,70.17,"Python, React",11
+U452,"JavaScript, Node.js",Mid,Backend Developer,53.82,"Java, C++",83
+U453,"React, SQL, Node.js, Data Science, AWS",Entry,AI Engineer,88.56,"AWS, JavaScript, Data Science",14
+U454,"Data Science, C++, SQL, Java, Node.js",Mid,Cloud Engineer,97.13,"JavaScript, SQL, C++, React, Machine Learning",47
+U455,"React, AWS, Machine Learning, JavaScript, Python",Entry,Frontend Developer,74.05,"JavaScript, SQL",83
+U456,"Java, JavaScript, Node.js",Entry,Data Scientist,77.34,"Data Science, Node.js, Python",58
+U457,"Java, Node.js, Data Science",Senior,Data Scientist,80.19,"JavaScript, Machine Learning, React",14
+U458,"C++, Machine Learning, AWS, JavaScript",Senior,Cloud Engineer,93.16,"Data Science, Node.js, AWS, React, Machine Learning",34
+U459,"Node.js, AWS, C++",Mid,AI Engineer,59.36,"Node.js, Machine Learning, JavaScript, Java",54
+U460,"JavaScript, SQL",Senior,Software Engineer,54.51,"Machine Learning, Java, AWS, C++",78
+U461,"Node.js, Java",Mid,AI Engineer,63.64,"AWS, React",68
+U462,"Java, React, AWS, Node.js, Machine Learning",Senior,AI Engineer,77.48,"React, SQL",64
+U463,"SQL, Data Science, Machine Learning, C++, Python",Mid,Data Scientist,97.46,"JavaScript, React",74
+U464,"Data Science, Python",Senior,Frontend Developer,66.85,"Java, Machine Learning, SQL",61
+U465,"AWS, SQL, Machine Learning, React",Mid,AI Engineer,85.36,"Machine Learning, C++, Data Science, Node.js",61
+U466,"Node.js, Python, Machine Learning, AWS, C++",Mid,Backend Developer,80.27,"Data Science, Java, C++, Python, Node.js",23
+U467,"SQL, Python, Data Science, C++, JavaScript",Mid,Data Scientist,56.07,"React, Data Science, SQL, Java",36
+U468,"Data Science, Machine Learning",Senior,Software Engineer,83.48,"Data Science, Node.js, AWS",53
+U469,"SQL, C++, Python",Entry,Software Engineer,87.53,"Node.js, SQL, Data Science",31
+U470,"AWS, React, Data Science, Python, Java",Entry,Backend Developer,64.18,"Java, Python, JavaScript",91
+U471,"JavaScript, Python, Java, Machine Learning",Entry,Data Scientist,80.71,"C++, Machine Learning, Python",14
+U472,"JavaScript, Java, React, AWS, Python",Entry,Cloud Engineer,60.04,"SQL, C++",78
+U473,"Node.js, JavaScript, Data Science, React",Mid,Data Scientist,94.99,"Data Science, SQL, Java, Python, Node.js",80
+U474,"AWS, Python",Mid,Software Engineer,91.15,"AWS, Data Science, React, C++",50
+U475,"Machine Learning, Java",Mid,Frontend Developer,69.63,"C++, JavaScript, Data Science, React, Node.js",39
+U476,"C++, Data Science, JavaScript, Node.js, SQL",Senior,Cloud Engineer,71.52,"Java, React",91
+U477,"React, Java, Data Science",Mid,Software Engineer,71.41,"Data Science, AWS, Node.js",82
+U478,"Python, Machine Learning",Senior,Software Engineer,63.92,"Python, Machine Learning, Java, SQL, Data Science",48
+U479,"Machine Learning, C++, JavaScript, SQL, React",Mid,Software Engineer,84.86,"AWS, C++, Python",97
+U480,"AWS, SQL",Entry,Data Scientist,63.94,"Java, React, Machine Learning, SQL",70
+U481,"JavaScript, SQL, Java, React, C++",Senior,Software Engineer,94.61,"Node.js, AWS, Python, SQL",87
+U482,"SQL, Machine Learning, AWS",Entry,Cloud Engineer,89.32,"React, SQL, Machine Learning, Java",80
+U483,"Machine Learning, SQL, C++",Mid,Software Engineer,91.42,"Data Science, Java, JavaScript",47
+U484,"Data Science, Machine Learning, Node.js, AWS, C++",Entry,AI Engineer,60.36,"React, Java, JavaScript, SQL, Node.js",41
+U485,"Java, Data Science, Python, AWS, C++",Mid,AI Engineer,58.36,"Python, Node.js, Data Science, React, Machine Learning",37
+U486,"SQL, Data Science, Java",Senior,Software Engineer,90.52,"Java, React, Data Science",29
+U487,"Data Science, JavaScript, React",Senior,Software Engineer,83.82,"JavaScript, Machine Learning, AWS, React, C++",70
+U488,"C++, SQL, AWS",Senior,Cloud Engineer,93.3,"JavaScript, React, AWS",81
+U489,"React, Data Science",Senior,Frontend Developer,82.12,"Machine Learning, Java, AWS, JavaScript",8
+U490,"Machine Learning, AWS, SQL, Python",Senior,Data Scientist,56.92,"React, Machine Learning, Python, Node.js, JavaScript",5
+U491,"Java, AWS, SQL",Mid,Software Engineer,56.0,"C++, React, SQL",86
+U492,"C++, Machine Learning",Senior,Backend Developer,90.2,"Java, AWS, Python, JavaScript",55
+U493,"Data Science, Machine Learning",Entry,Software Engineer,84.3,"Machine Learning, C++, Data Science, Node.js",83
+U494,"React, Java, Data Science",Mid,Data Scientist,54.93,"Python, Node.js",57
+U495,"Java, Node.js, Data Science, Machine Learning, SQL",Mid,Data Scientist,92.25,"Java, Machine Learning, Node.js",12
+U496,"Java, Node.js, React, Machine Learning",Mid,Backend Developer,88.04,"Machine Learning, Java",52
+U497,"Data Science, JavaScript, React",Senior,Software Engineer,51.72,"JavaScript, Python",31
+U498,"AWS, Data Science",Mid,AI Engineer,87.55,"JavaScript, Node.js, SQL, Python, React",20
+U499,"C++, SQL, Machine Learning",Senior,Data Scientist,88.65,"Node.js, Java, JavaScript, Python, Data Science",7
+U500,"AWS, React, C++",Senior,Software Engineer,67.05,"Python, C++",88
