@@ -1,5 +1,5 @@
 # AI-Job-Role-Suggester
-AI-powered job re# AI-Powered Tech Skills Job Recommendation 🚀
+AI-Powered Tech Skills Job Recommendation 
 
 This is a Flask-based AI web app that predicts the best tech job role based on user input.
 Features:
